@@ -13,5 +13,6 @@ public class SalesData {
 		System.out.println("branch exp2");
 		System.out.println("branch exp3");
 		System.out.println("branch master");
+		System.out.println("branch master2");
 	}
 }
