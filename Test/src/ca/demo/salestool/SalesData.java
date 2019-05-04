@@ -10,5 +10,6 @@ public class SalesData {
 			System.out.println("Next Value : "+data[i]);
 		}
 		System.out.println("branch exp");
+		System.out.println("branch exp2");
 	}
 }
